@@ -1,0 +1,20 @@
+.addNoteButton{
+    background-color: #A4B3B6;
+    color: white;
+    display: table;
+    margin: 5px auto;
+}
+
+.addNoteButton:hover{
+    background-color: #A4B3B6;
+    color: white;
+    display: table;
+    margin: 5px auto;
+}
+
+.inputNote{
+    width: 80%;
+    height: 40px;
+    display: table;
+    margin: 10px auto;
+}
